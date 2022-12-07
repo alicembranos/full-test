@@ -1,6 +1,7 @@
 /**
  * Steps:
- * 1/ For boucle
+ * 1/ Given a number
+ * 1/ Iterate from 1 to num with for loop
  * 2/ Ternary operator
  *      - if num % 3 === 0 => falsy => print Fizz
  *      - if num % 5 === 0 => falsy => print Buzz
